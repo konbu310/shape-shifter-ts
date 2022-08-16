@@ -1,0 +1,12 @@
+:root {
+  --page-ivory: #fcf3e6;
+  --dark-blue: #12274f;
+}
+
+body {
+  font-family: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: var(--dark-blue);
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5em;
+}
